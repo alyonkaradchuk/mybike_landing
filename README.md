@@ -1,2 +1,4 @@
 # MyBike landing page
-- [DEMO LINK](https://alyonkaradchuk.github.io/mybike_landing/)
+
+Click [here](https://alyonkaradchuk.github.io/mybike_landing/) to see the demonstration.
+
